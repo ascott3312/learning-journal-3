@@ -14,7 +14,7 @@ header h1 {
   text-align: center;
 }
 header h2 {
-  text-shadow: 2px 2px 2px whtie;
+  text-shadow: 2px 2px 2px white;
   margin: 0;
   /* float: left; */
   font-family: 'Open Sans', cursive;
@@ -32,7 +32,7 @@ header ul {
 header li {
   list-style: none;
   display: inline-block;
-  background-color: white;
+  background-color: gray;
   padding: 10px;
   font-size: 16px;
 }
