@@ -10,7 +10,7 @@ header, footer {
   text-align: center;
 }
 header h1 {
-  text-shadow: 2px 2px 2px darkslategray;
+  text-shadow: 2px 2px 2px white;
   margin: 0;
   /* float: left; */
   font-family: 'Open Sans', cursive;
