@@ -9,3 +9,60 @@ header, footer {
   padding: 10px;
   text-align: center;
 }
+header h1 {
+  text-shadow: 2px 2px 2px darkslategray;
+  margin: 0;
+  /* float: left; */
+  font-family: 'Open Sans', cursive;
+  letter-spacing: 1px;
+  font-style:italic;
+  text-align: center;
+}
+header h2 {
+  text-shadow: 2px 2px 2px darkslategray;
+  margin: 0;
+  /* float: left; */
+  font-family: 'Open Sans', cursive;
+  letter-spacing: 1px;
+  font-style:italic;
+  text-align: left;
+}
+}
+header ul {
+  /* background-color: green; */
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+header li {
+  list-style: none;
+  display: inline-block;
+  /* background-color: yellow; */
+  padding: 10px;
+  font-size: 16px;
+}
+header a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  /* padding: 10px; */
+}
+header a:hover {
+  background-color: gray;
+  border-radius: 15px 15px 0 0;
+  border-bottom: 1px solid white;
+}
+.active {
+  border-bottom: 3px solid white !important;
+}
+footer a {
+  color: white;
+}
+footer a:hover {
+  color:  #f05325;
+  background: white;
+}
+
+
+
