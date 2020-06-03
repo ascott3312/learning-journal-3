@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   overflow-wrap: break-word;
-  background: grey;
+  background:grey;
 }
 header, footer {
   background:purple;
