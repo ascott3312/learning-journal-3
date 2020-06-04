@@ -5,7 +5,7 @@ year.textContent = today.getFullYear();
 function myNew () {
 
 var food = prompt("Enter the Food","Turkey");
-    if (person != null) 
+    if (food != null) 
     {
         document.getElementById("one").innerHTML = 
         "Your" + food + "is on sale";
