@@ -7,7 +7,7 @@ function myNew () {
 var food = prompt("Enter the Food","Turkey");
     if (person != null) 
     {
-        document.getElementById("myNew").innerHTML = 
+        document.getElementById("one").innerHTML = 
         "Your" + food + "is on sale";
     }
 }
