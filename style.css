@@ -33,9 +33,6 @@ header li {
   clear: both;
   display: table;
 }
-main {
-  background: lightgray;
-}
 footer a {
   color: white;
 }
