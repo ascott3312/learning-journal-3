@@ -1,4 +1,8 @@
-  var getItem = function() {
+var year = document.getElementById('copyright');
+var today = new Date();
+year.textContent = today.getFullYear();
+
+var getItem = function() {
     var order = prompt('Enter in the Pizza or Hamburger').toLowerCase().trim();
     var item;
     while (order !== 'pizza' && order !== 'hamburger') {
@@ -28,3 +32,12 @@
     }
     document.getElementById("one").innerHTML = result;
   }
+  function pow (x,y){
+    var result = 1;
+    for(var i = 0; i < y; i++){
+        result *= x;
+    }
+    return result;
+}
+console.log(pow(2,4));
+console.log(pow(5,5));
