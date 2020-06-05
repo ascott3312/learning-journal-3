@@ -1,4 +1,8 @@
-header, footer {
+* {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+gieader, footer {
   background:purple;
   color: white;
   padding: 10px;
