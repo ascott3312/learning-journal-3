@@ -32,6 +32,10 @@ header li {
   background-color: gray;
   padding: 10px;
   font-size: 16px;
+p {
+  content: "";
+  clear:  both;
+  display: table;
 }
 footer a {
   color: white;
