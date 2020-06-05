@@ -21,3 +21,4 @@ function pow (x,y){
 console.log(pow(2,4));
 console.log(pow(5,5));
 
+
