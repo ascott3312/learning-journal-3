@@ -11,7 +11,7 @@ header h1 {
 }
 header h2 {
   margin: 0;
-  letter-spacing: 1px;
+  /* letter-spacing: 1px; */
   font-style:italic;
 }
 header ul {
