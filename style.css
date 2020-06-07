@@ -26,6 +26,9 @@ header ul {
   font-size: 0;
   color: white;
 }
+p {
+  display block;
+}
 header li {
   list-style: none;
   display: inline-block;
