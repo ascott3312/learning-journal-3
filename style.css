@@ -29,7 +29,7 @@ header ul {
 p {
   display: block;
   margin: 0;
-  margin-block: auto;
+  margin-block-start: auto;
 }
 header li {
   list-style: none;
