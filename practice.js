@@ -9,9 +9,9 @@ var getItem = function() {
       order = prompt('Please enter "pizza" or "hamburger"...').toLowerCase().trim();
     }
     if (order === 'pizza') {
-      item = '<img src="images/pizza.jpg">';
+      item = '<img src="image/pizza.jpg">';
     } else if (order === 'hamburger') {
-      item = '<img src="images/hamburger.jpg">';
+      item = '<img src="image/hamburger.jpg">';
     }
     return item;
   }
