@@ -28,6 +28,7 @@ header ul {
 }
 p {
   display: block;
+  margin: 0;
 }
 header li {
   list-style: none;
