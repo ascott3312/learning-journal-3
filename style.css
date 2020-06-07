@@ -27,7 +27,7 @@ header ul {
   color: white;
 }
 p {
-  display block;
+  display: block;
 }
 header li {
   list-style: none;
